@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "2026-10-21T08:04:04.465756+00:00",
-  "totalJobs": 92,
+  "lastUpdated": "2026-10-22T08:02:13.249391+00:00",
+  "totalJobs": 99,
   "sources": [
     "Anthropic",
     "HackerNews",
+    "RemoteOK",
     "WeWorkRemotely"
   ],
   "jobs": [
@@ -133,6 +134,29 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "rok-remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "company": "Wrapbook",
+      "position": "Senior Software Engineer II Applied AI",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount,...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "postedAt": "2026-10-15T16:00:03+00:00",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Node.js",
+        "AWS",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-50104234",
       "company": "Treat Health",
       "position": "Software Engineer",
@@ -157,6 +181,23 @@
       "companyIcon": ""
     },
     {
+      "id": "rok-remote-graphic-designer-video-editor-bluetuskr-1137507",
+      "company": "BlueTuskr",
+      "position": "Graphic Designer & Video Editor",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Description BlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is made up of specialists who are deeply invested in their craft — and in the success...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+      "postedAt": "2026-10-13T00:00:06+00:00",
+      "tags": [
+        "Rust"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "anth-5443331008",
       "company": "Anthropic",
       "position": "Manager, Applied AI Architect",
@@ -175,6 +216,25 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "rok-remote-technical-customer-support-quickmail-1137506",
+      "company": "QuickMail",
+      "position": "Technical Customer Support",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "QuickMail is a cold email and LinkedIn outreach platform for markets you can't afford to burn. Our customers can't easily replace leads that land in spam, which is why deliverability matters more to us than anything else. We have been running since 2014, and we pioneered deliverability technology...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
+      "postedAt": "2026-10-12T16:20:10+00:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "GraphQL"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "hn-50025234",
@@ -199,6 +259,27 @@
         "Azure",
         "Claude Code",
         "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "rok-remote-product-design-lead-fuel50-1137474",
+      "company": "Fuel50",
+      "position": "Product Design Lead",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI to help people and organisations take...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+      "postedAt": "2026-10-09T08:00:04+00:00",
+      "tags": [
+        "JavaScript",
+        "Rust",
+        "Claude Code",
+        "Cursor",
+        "Copilot"
       ],
       "companyIcon": ""
     },
@@ -719,6 +800,26 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "anth-5423931008",
+      "company": "Anthropic",
+      "position": "Copywriter, Developer",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As a Copywriter, Developer at Anthropic, you will shape how our brand speaks to developers, an audience that is notoriously allergic to being marketed to and quick to spot anything that doesn't ring true. Developers who stay sharp, curious, and direct AI tools with their own judgment are the ones...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008",
+      "postedAt": "2026-09-16T15:39:40-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5421566008",
       "company": "Anthropic",
       "position": "Technical Architect ",
@@ -1196,6 +1297,48 @@
         "Python",
         "Rust",
         "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5391062008",
+      "company": "Anthropic",
+      "position": "AI Outcomes Manager, Financial Services",
+      "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+      "remote": false,
+      "salary": "",
+      "description": "Join Anthropic's Customer Success team in a high-impact role driving AI adoption across our Financial Services segment. As an Enterprise Customer Success Manager for FSI, you'll be the strategic partner and a trusted advisor to our most complex customers with a portfolio spanning Banking,...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
+      "postedAt": "2026-08-17T10:04:09-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5379140008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Safeguards Data ",
+      "location": "New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "Claude serves millions of individual users alongside enterprise clients. Safeguards Engineering develops the foundational infrastructure that ensures its safe use: robust access controls, active abuse detection, real-time probes and classifiers within the inference pipeline, offline monitoring for...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5379140008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5379140008",
+      "postedAt": "2026-08-14T19:01:15-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "GCP",
+        "Azure",
         "Claude Code",
         "Anthropic"
       ],
@@ -1834,7 +1977,7 @@
     {
       "id": "anth-5082455008",
       "company": "Anthropic",
-      "position": "AI Outcomes Manager",
+      "position": "AI Outcomes Manager, Strategic Tech",
       "location": "New York City, NY; San Francisco, CA; Seattle, WA",
       "remote": false,
       "salary": "",
